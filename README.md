@@ -37,7 +37,7 @@ Install the required libraries listed in requirements.txt:
 
 The project uses the **NSL-KDD** dataset, a benchmark dataset for intrusion detection research. You can download it from the following link:
 
-- [Download NSL-KDD Dataset]((https://www.kaggle.com/datasets/hassan06/nslkdd)) 📥
+- [Download NSL-KDD Dataset](https://www.kaggle.com/datasets/hassan06/nslkdd) 📥
 
 After downloading, place the dataset files in the `data/` directory.
 
