@@ -58,7 +58,7 @@ Steps covered in the notebook:
 ## 🏆 Results
 The project achieved significant performance across multiple attack categories:
 
-🌲 Random Forest: Achieved the highest accuracy of XX%.
+🌲 Random Forest: Achieved the highest accuracy of 99.32%.
 
 🏡 K-Nearest Neighbors (KNN): Balanced precision and recall for specific attack types.
 
